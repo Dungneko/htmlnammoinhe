@@ -1,0 +1,31 @@
+
+        body{
+            margin:0px;
+            padding:0px;
+            
+           
+            background-repeat:no-repeat;
+            background-position: center ;
+            background-attachment: fixed;
+            background-size: cover;
+    
+    
+            }
+            h1 {color:purple;
+            text-align: center};
+            h2 {color:black};
+              
+            table,th,td{
+                    border: 1px solid blue;
+                    border-collapse: collapse;
+                    padding:5px;
+                }
+                td,td{
+                    background-color: aqua;
+                }
+                table{width: 100%}
+                td{height: 100px;
+                    text-align: center};
+
+                 
+      
